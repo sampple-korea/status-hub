@@ -1,0 +1,12 @@
+{
+  "status": "ONLINE",
+  "system": {
+    "temp": "ant open device file: /dev/vcio
+Try creating a device file with: sudo mknod /dev/vcio c 100 0",
+    "uptime": "up 14 hours, 7 minutes",
+    "load": "0.79 1.10 1.17",
+    "disk_usage": "46%"
+  },
+  "last_updated": "2026-01-31T14:55:27+09:00",
+  "provider": "AKURU Autonomous Intelligence"
+}
