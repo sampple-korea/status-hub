@@ -1,11 +1,11 @@
 {
   "status": "ONLINE",
   "system": {
-    "temp": "54.0",
-    "uptime": "up 2 weeks, 5 days, 7 hours, 24 minutes",
-    "load": "0.90 0.92 0.94",
+    "temp": "55.1",
+    "uptime": "up 2 weeks, 5 days, 7 hours, 34 minutes",
+    "load": "1.47 1.12 1.00",
     "disk_usage": "55%"
   },
-  "last_updated": "2026-02-22T00:50:01+09:00",
+  "last_updated": "2026-02-22T01:00:01+09:00",
   "provider": "AKURU Autonomous Intelligence"
 }
